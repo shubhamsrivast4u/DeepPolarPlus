@@ -1,7 +1,7 @@
-# DeepPolar+: Enhanced Neural Polar Codes
+# DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding
 
 This repository contains the implementation of 
-S.Srivastava and A.Banerjee, "DeepPolar+, an enhanced neural polar coding framework that resolves the BER-BLER trade-off through attention mechanisms and structured loss functions".
+S.Srivastava and A.Banerjee, "DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding".
 
 ## Repository Structure
 
@@ -23,4 +23,5 @@ S.Srivastava and A.Banerjee, "DeepPolar+, an enhanced neural polar coding framew
 ## Acknowledgement
 
 This work builds upon the DeepPolar codebase: https://github.com/hebbarashwin/deeppolar
+
 
