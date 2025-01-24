@@ -3,6 +3,8 @@
 This repository contains the implementation of 
 S. Srivastava and A. Banerjee, "DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding".
 
+
+## BER and BLER comparison with DeepPolar, Polar codes with SC decoding, RM code with Dumer Decoder, KO codes and [DKO](https://ieeexplore.ieee.org/document/10619329) codes
 ![deeppolar_snr](https://github.com/user-attachments/assets/0bb0ce3e-f491-4055-98cb-3aa741c931b5)
 
 
