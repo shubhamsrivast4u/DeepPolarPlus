@@ -3,6 +3,9 @@
 This repository contains the implementation of 
 S. Srivastava and A. Banerjee, "DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding".
 
+![deeppolar_snr](https://github.com/user-attachments/assets/0bb0ce3e-f491-4055-98cb-3aa741c931b5)
+
+
 ## Repository Structure
 
 - `deeppolar_plus_Xepochs.ipynb`: Training notebooks for X epochs
