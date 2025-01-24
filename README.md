@@ -1,6 +1,6 @@
 # DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding
 
-This repository contains the implementation of 
+This repository contains the official implementation of 
 S. Srivastava and A. Banerjee, "DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding".
 
 
