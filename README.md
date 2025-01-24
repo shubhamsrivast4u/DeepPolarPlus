@@ -13,6 +13,7 @@ S. Srivastava and A. Banerjee, "DeepPolar+: Breaking the BER-BLER Trade-off with
 - `SMART-CRCZ.ipynb`: DP+SMART decoder implementation with CRC length Z
 - `gfchanged/`: Modified kernel training code with DeepPolar+ g and f functions. This is build upon [DeepPolar](https://github.com/hebbarashwin/deeppolar) codes with modified g and f function.
 - `DeepPolar/`: Saved model weights and experimental results
+- 'Polar_Results/curriculum/final_kernels' contains pretrained kernels with modified g and f function.
 
 ## Implementation Notes
 
