@@ -25,7 +25,7 @@ S. Srivastava and A. Banerjee, "DeepPolar+: Breaking the BER-BLER Trade-off with
   - Multiple epoch durations
   - Various SNR training pairs
   - Different CRC lengths for DP+SMART decoder
-- All notebooks labelled "DeepPolar" in plots refer to DeepPolar+ models with specific training configurations. Please ignore the labels on the plots of Jupyter Notebook files. The labels marked 'DeepPolar' are actually the results of 'DeepPolar+' models with that configuration.
+- All notebooks labelled "DeepPolar" in plots refer to DeepPolar+ models with specific training configurations. Please ignore the labels on the plots of Jupyter Notebook files. The labels marked 'DeepPolar' are actually the results of 'DeepPolar+' models with that configuration. At the time of the simulations, we had not decided on the name of our model, and we were experimenting with DeepPolar code. That's why labels in the plots of the figures in the Jupyter Notebooks still have 'DeepPolar' in them. 
 
 ## Acknowledgement
 
